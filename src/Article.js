@@ -38,6 +38,7 @@ class Article extends React.Component {
         <span className="article-link-text">Share Post</span>
       </a>
     </div>
+    
   </div>
 
     )
